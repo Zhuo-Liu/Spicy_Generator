@@ -3,7 +3,7 @@ import pandas as pd
 import random
 import xlwt
 
-path = r'./Posts3.xlsx'
+path = r'./posts5.xlsx'
 
 data = pd.read_excel(path)
 data = data.dropna()
@@ -38,7 +38,7 @@ for name in Name_set:
 
     results[name] = ans
 
-p = './result_2.xls'
+p = './posts_5_result.xls'
 # f = open(p,'w',encoding='utf-8')
 # for k,v in results.items():
 #     f.write(k+'\n')
@@ -63,17 +63,29 @@ p = './result_2.xls'
 #     j = j+1
 # workbook.save(p)
 
+# workbook = xlwt.Workbook()
+# sheet = workbook.add_sheet('facebook_url')
+# j=0
+# for k,v in results.items():
+#     i = 0
+#     sheet.write(i,j,k)
+#     j = j+1
+#     for entry in v:
+#         sheet.write(i,j,entry)
+#         i = i+1
+#     j = j+1
+# workbook.save(p)
+
 workbook = xlwt.Workbook()
 sheet = workbook.add_sheet('facebook_url')
-j=0
+i = 0
 for k,v in results.items():
-    i = 0
+    j = 0
     sheet.write(i,j,k)
-    j = j+1
+    j = j + 5
     for entry in v:
         sheet.write(i,j,entry)
-        i = i+1
-    j = j+1
+        i = i + 1
 workbook.save(p)
 
 
