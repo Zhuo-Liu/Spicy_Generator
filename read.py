@@ -3,7 +3,7 @@ import pandas as pd
 import random
 import xlwt
 
-path = r'./posts5.xlsx'
+path = r'./post6.xlsx'
 
 data = pd.read_excel(path)
 data = data.dropna()
@@ -38,7 +38,7 @@ for name in Name_set:
 
     results[name] = ans
 
-p = './posts_5_result.xls'
+p = './posts_6_result.xls'
 # f = open(p,'w',encoding='utf-8')
 # for k,v in results.items():
 #     f.write(k+'\n')
