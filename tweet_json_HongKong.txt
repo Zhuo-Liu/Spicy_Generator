@@ -1,0 +1,1449 @@
+[
+    {
+        "created_at": "Sat Nov 14 06:47:12 +0000 2020",
+        "id": 1327503328918470656,
+        "id_str": "1327503328918470656",
+        "text": "Author Cameron Dueck chats with Chris Maden at #HKILF2020 #TaiKwun. Join us for the #HKILF - where authors meet rea\u2026 https://t.co/Y8JaBYukqr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HKILF2020",
+                    "indices": [
+                        47,
+                        57
+                    ]
+                },
+                {
+                    "text": "TaiKwun",
+                    "indices": [
+                        58,
+                        66
+                    ]
+                },
+                {
+                    "text": "HKILF",
+                    "indices": [
+                        84,
+                        90
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Y8JaBYukqr",
+                    "expanded_url": "https://twitter.com/i/web/status/1327503328918470656",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 89363681,
+            "id_str": "89363681",
+            "name": "Hong Kong International Literary Festival",
+            "screen_name": "litfest_hk",
+            "location": "Hong Kong",
+            "description": "20th Edition: 5-15 November 2020.  \nWe unite authors and readers, promoting the literary arts and a love of literature. Love literature with HKILF.",
+            "url": "https://t.co/7jfy45pe2I",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7jfy45pe2I",
+                            "expanded_url": "http://www.festival.org.hk",
+                            "display_url": "festival.org.hk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11103,
+            "friends_count": 8538,
+            "listed_count": 117,
+            "created_at": "Thu Nov 12 03:39:47 +0000 2009",
+            "favourites_count": 1165,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1842,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1022415397142716416/dX3jmqts_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022415397142716416/dX3jmqts_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/89363681/1597920473",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:43:58 +0000 2020",
+        "id": 1327502515051536386,
+        "id_str": "1327502515051536386",
+        "text": "#Taiwan\n#HongKong\n#Trump\n#USA\n#ccp\nLive \n\nhttps://t.co/3j8PcA3m5w",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Taiwan",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "text": "HongKong",
+                    "indices": [
+                        8,
+                        17
+                    ]
+                },
+                {
+                    "text": "Trump",
+                    "indices": [
+                        18,
+                        24
+                    ]
+                },
+                {
+                    "text": "USA",
+                    "indices": [
+                        25,
+                        29
+                    ]
+                },
+                {
+                    "text": "ccp",
+                    "indices": [
+                        30,
+                        34
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3j8PcA3m5w",
+                    "expanded_url": "https://youtu.be/5o7S6JYZ7z0",
+                    "display_url": "youtu.be/5o7S6JYZ7z0",
+                    "indices": [
+                        42,
+                        65
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1248613089320132608,
+            "id_str": "1248613089320132608",
+            "name": "\u5433 lily",
+            "screen_name": "aaa_5438",
+            "location": "\u65b0\u5317\u5e02, \u53f0\u7063",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 570,
+            "listed_count": 0,
+            "created_at": "Fri Apr 10 14:06:01 +0000 2020",
+            "favourites_count": 34,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 781,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248613436667203589/1LibX-I4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248613436667203589/1LibX-I4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:43:32 +0000 2020",
+        "id": 1327502409019531265,
+        "id_str": "1327502409019531265",
+        "text": "@ipacglobal @MPIainDS @LaylaMoran @AlynSmith Your utter ignorance (or denial) of facts regarding, for example,\u2026 https://t.co/sDVNBjUGlr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ipacglobal",
+                    "name": "Inter-Parliamentary Alliance on China",
+                    "id": 1260924545436921858,
+                    "id_str": "1260924545436921858",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "MPIainDS",
+                    "name": "Iain Duncan Smith MP",
+                    "id": 1133305785910550528,
+                    "id_str": "1133305785910550528",
+                    "indices": [
+                        12,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "LaylaMoran",
+                    "name": "Layla Moran \ud83d\udd36",
+                    "id": 23424533,
+                    "id_str": "23424533",
+                    "indices": [
+                        22,
+                        33
+                    ]
+                },
+                {
+                    "screen_name": "AlynSmith",
+                    "name": "Alyn Smith MP \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\uddea\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "id": 23056912,
+                    "id_str": "23056912",
+                    "indices": [
+                        34,
+                        44
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sDVNBjUGlr",
+                    "expanded_url": "https://twitter.com/i/web/status/1327502409019531265",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1327498259858743296,
+        "in_reply_to_status_id_str": "1327498259858743296",
+        "in_reply_to_user_id": 28223150,
+        "in_reply_to_user_id_str": "28223150",
+        "in_reply_to_screen_name": "ChinaBazzar",
+        "user": {
+            "id": 28223150,
+            "id_str": "28223150",
+            "name": "ChinaBazaar",
+            "screen_name": "ChinaBazzar",
+            "location": "Out of Darkness Cometh Light..",
+            "description": "Positive views from a happy life in China https://t.co/1Miz9F0ZBE + https://t.co/0mZryQbc78",
+            "url": "https://t.co/ITZQb89WBB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ITZQb89WBB",
+                            "expanded_url": "https://bestchinainfo.com/",
+                            "display_url": "bestchinainfo.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1Miz9F0ZBE",
+                            "expanded_url": "http://soundcloud.com/barrie-v",
+                            "display_url": "soundcloud.com/barrie-v",
+                            "indices": [
+                                42,
+                                65
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/0mZryQbc78",
+                            "expanded_url": "http://jamplant.wixsite.com/barriev",
+                            "display_url": "jamplant.wixsite.com/barriev",
+                            "indices": [
+                                68,
+                                91
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592,
+            "friends_count": 1697,
+            "listed_count": 9,
+            "created_at": "Wed Apr 01 23:15:33 +0000 2009",
+            "favourites_count": 10592,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15874,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9CF7D6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327374994385428480/0Ko9FX-3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327374994385428480/0Ko9FX-3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28223150/1566967041",
+            "profile_link_color": "FF8C00",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:42:03 +0000 2020",
+        "id": 1327502035319590912,
+        "id_str": "1327502035319590912",
+        "text": "NO COVID19 update yet??? (November 14, 2020; 14:41 HKT) #COVID2019 #COVID19 #HONGKONG #H",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID2019",
+                    "indices": [
+                        56,
+                        66
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        67,
+                        75
+                    ]
+                },
+                {
+                    "text": "HONGKONG",
+                    "indices": [
+                        76,
+                        85
+                    ]
+                },
+                {
+                    "text": "H",
+                    "indices": [
+                        86,
+                        88
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 313536147,
+            "id_str": "313536147",
+            "name": "ActivistBowen",
+            "screen_name": "ActivistBowen2",
+            "location": "Hong Kong",
+            "description": "person, web writer, dissident, son, brother, friend; NOT a 1-man show; RTs = IMPORTANCE, NOT NECESSARILY ENDORSEMENTS; REASONABLENESS over loyalty",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3792,
+            "friends_count": 5001,
+            "listed_count": 1092,
+            "created_at": "Wed Jun 08 20:17:01 +0000 2011",
+            "favourites_count": 4600,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 199332,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/773309911136481281/ppUYpA45_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/773309911136481281/ppUYpA45_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/313536147/1473206462",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:38:19 +0000 2020",
+        "id": 1327501093463613440,
+        "id_str": "1327501093463613440",
+        "text": "\"Beijing\u2019s more aggressive behaviour is seen in the arbitrary detention of Canadian citizens Michael Kovrig &amp; Micha\u2026 https://t.co/3Pwt78p8fd",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3Pwt78p8fd",
+                    "expanded_url": "https://twitter.com/i/web/status/1327501093463613440",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 387763166,
+            "id_str": "387763166",
+            "name": "Cameron MacKenzie MP",
+            "screen_name": "CameronMacKenz2",
+            "location": "Fourways",
+            "description": "DA MP. Shadow Deputy Minister Communications & Digital Technologies. Fourways Constituency. Husband, Father, Friend. Views strictly mine. Trolls will be blocked",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4840,
+            "friends_count": 2116,
+            "listed_count": 38,
+            "created_at": "Sun Oct 09 16:41:19 +0000 2011",
+            "favourites_count": 14678,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16296,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327199663477428226/sg_pJbWU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327199663477428226/sg_pJbWU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/387763166/1605264035",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:37:07 +0000 2020",
+        "id": 1327500792446676993,
+        "id_str": "1327500792446676993",
+        "text": "EU urged to stop applying double standards \n#HongKong #HKSAR #NPCSC #LegCo\n\n https://t.co/1wkXQQB0iK",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HongKong",
+                    "indices": [
+                        44,
+                        53
+                    ]
+                },
+                {
+                    "text": "HKSAR",
+                    "indices": [
+                        54,
+                        60
+                    ]
+                },
+                {
+                    "text": "NPCSC",
+                    "indices": [
+                        61,
+                        67
+                    ]
+                },
+                {
+                    "text": "LegCo",
+                    "indices": [
+                        68,
+                        74
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1wkXQQB0iK",
+                    "expanded_url": "https://s.chinadailyhk.com/fyUFri",
+                    "display_url": "s.chinadailyhk.com/fyUFri",
+                    "indices": [
+                        77,
+                        100
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1257998445589041153,
+            "id_str": "1257998445589041153",
+            "name": "China Daily Hong Kong",
+            "screen_name": "CDHKedition",
+            "location": "Hong Kong ",
+            "description": "FRESH. SPIRITED. HONG KONG LIFE.\n\u65b0\u89f8\u89d2\uff0c\u6b63\u80fd\u91cf\uff0c\u6e2f\u751f\u6d3b\u3002",
+            "url": "https://t.co/PIALWTeWm8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PIALWTeWm8",
+                            "expanded_url": "http://www.chinadailyhk.com/",
+                            "display_url": "chinadailyhk.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2032,
+            "friends_count": 198,
+            "listed_count": 26,
+            "created_at": "Wed May 06 11:40:07 +0000 2020",
+            "favourites_count": 203,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 3186,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1257998670391201792/X3e52b_-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257998670391201792/X3e52b_-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257998445589041153/1588766071",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:29:00 +0000 2020",
+        "id": 1327498750516989952,
+        "id_str": "1327498750516989952",
+        "text": "#HillhouseCapital is in talks to take property developer #SOHOChina private, in a deal that could be worth more tha\u2026 https://t.co/0NPFQDa0gL",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HillhouseCapital",
+                    "indices": [
+                        0,
+                        17
+                    ]
+                },
+                {
+                    "text": "SOHOChina",
+                    "indices": [
+                        57,
+                        67
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0NPFQDa0gL",
+                    "expanded_url": "https://twitter.com/i/web/status/1327498750516989952",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2406323088,
+            "id_str": "2406323088",
+            "name": "DealStreetAsia",
+            "screen_name": "DealStreetAsia",
+            "location": "Asia",
+            "description": "Financial news & intelligence platform. Join us for the 5th edition of the #AsiaPEVCSummit \u2014 https://t.co/XYrC3znNuq",
+            "url": "https://t.co/wMK6qfNUW1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wMK6qfNUW1",
+                            "expanded_url": "http://www.dealstreetasia.com",
+                            "display_url": "dealstreetasia.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XYrC3znNuq",
+                            "expanded_url": "http://events.dealstreetasia.com/sg2020",
+                            "display_url": "events.dealstreetasia.com/sg2020",
+                            "indices": [
+                                93,
+                                116
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 6308,
+            "friends_count": 306,
+            "listed_count": 422,
+            "created_at": "Sun Mar 23 07:30:31 +0000 2014",
+            "favourites_count": 754,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 89503,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/884324744740327424/dKuHlipS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/884324744740327424/dKuHlipS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2406323088/1538113265",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:27:03 +0000 2020",
+        "id": 1327498259858743296,
+        "id_str": "1327498259858743296",
+        "text": "@ipacglobal @MPIainDS @LaylaMoran @AlynSmith There is nothing to 'breach'! Joint Declaration was a declaration' + s\u2026 https://t.co/Wn7JZK6ea8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ipacglobal",
+                    "name": "Inter-Parliamentary Alliance on China",
+                    "id": 1260924545436921858,
+                    "id_str": "1260924545436921858",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "MPIainDS",
+                    "name": "Iain Duncan Smith MP",
+                    "id": 1133305785910550528,
+                    "id_str": "1133305785910550528",
+                    "indices": [
+                        12,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "LaylaMoran",
+                    "name": "Layla Moran \ud83d\udd36",
+                    "id": 23424533,
+                    "id_str": "23424533",
+                    "indices": [
+                        22,
+                        33
+                    ]
+                },
+                {
+                    "screen_name": "AlynSmith",
+                    "name": "Alyn Smith MP \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f\ud83c\uddea\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "id": 23056912,
+                    "id_str": "23056912",
+                    "indices": [
+                        34,
+                        44
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Wn7JZK6ea8",
+                    "expanded_url": "https://twitter.com/i/web/status/1327498259858743296",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1327213399017656321,
+        "in_reply_to_status_id_str": "1327213399017656321",
+        "in_reply_to_user_id": 1260924545436921858,
+        "in_reply_to_user_id_str": "1260924545436921858",
+        "in_reply_to_screen_name": "ipacglobal",
+        "user": {
+            "id": 28223150,
+            "id_str": "28223150",
+            "name": "ChinaBazaar",
+            "screen_name": "ChinaBazzar",
+            "location": "Out of Darkness Cometh Light..",
+            "description": "Positive views from a happy life in China https://t.co/1Miz9F0ZBE + https://t.co/0mZryQbc78",
+            "url": "https://t.co/ITZQb89WBB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ITZQb89WBB",
+                            "expanded_url": "https://bestchinainfo.com/",
+                            "display_url": "bestchinainfo.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1Miz9F0ZBE",
+                            "expanded_url": "http://soundcloud.com/barrie-v",
+                            "display_url": "soundcloud.com/barrie-v",
+                            "indices": [
+                                42,
+                                65
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/0mZryQbc78",
+                            "expanded_url": "http://jamplant.wixsite.com/barriev",
+                            "display_url": "jamplant.wixsite.com/barriev",
+                            "indices": [
+                                68,
+                                91
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592,
+            "friends_count": 1697,
+            "listed_count": 9,
+            "created_at": "Wed Apr 01 23:15:33 +0000 2009",
+            "favourites_count": 10592,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15874,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9CF7D6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327374994385428480/0Ko9FX-3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327374994385428480/0Ko9FX-3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28223150/1566967041",
+            "profile_link_color": "FF8C00",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:22:52 +0000 2020",
+        "id": 1327497205977018368,
+        "id_str": "1327497205977018368",
+        "text": "@hollyanndoan @ottawalifers @ChinaEmbOttawa @SenHarder @yuenpauwoo @mary_ng Standing with #HongKong for democracy !",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HongKong",
+                    "indices": [
+                        90,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hollyanndoan",
+                    "name": "Holly Doan",
+                    "id": 809310522,
+                    "id_str": "809310522",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "ottawalifers",
+                    "name": "Ottawa Life Magazine",
+                    "id": 584093916,
+                    "id_str": "584093916",
+                    "indices": [
+                        14,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "ChinaEmbOttawa",
+                    "name": "ChineseEmbassyOttawa",
+                    "id": 2562545263,
+                    "id_str": "2562545263",
+                    "indices": [
+                        28,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "SenHarder",
+                    "name": "Peter Harder",
+                    "id": 767774260274298880,
+                    "id_str": "767774260274298880",
+                    "indices": [
+                        44,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "yuenpauwoo",
+                    "name": "Yuen Pau Woo",
+                    "id": 259561654,
+                    "id_str": "259561654",
+                    "indices": [
+                        55,
+                        66
+                    ]
+                },
+                {
+                    "screen_name": "mary_ng",
+                    "name": "Mary Ng",
+                    "id": 29754743,
+                    "id_str": "29754743",
+                    "indices": [
+                        67,
+                        75
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1327003731846631427,
+        "in_reply_to_status_id_str": "1327003731846631427",
+        "in_reply_to_user_id": 809310522,
+        "in_reply_to_user_id_str": "809310522",
+        "in_reply_to_screen_name": "hollyanndoan",
+        "user": {
+            "id": 1168081522533888000,
+            "id_str": "1168081522533888000",
+            "name": "GutEE \u6bcf\u65e5\u4e00\u676f\u51cd\u5976\u8336\u5c11\u751c \ud83d\ude37\ud83c\udded\ud83c\uddf0",
+            "screen_name": "GuE_AisinGioro",
+            "location": "",
+            "description": "Individually, we are one drop. Together, we are an ocean. \u2764\ufe0f HK #GlorytoHongKong #StandwithHongKong #\u898b\u5b57\u98f2\u6c34",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 396,
+            "friends_count": 679,
+            "listed_count": 2,
+            "created_at": "Sun Sep 01 08:42:28 +0000 2019",
+            "favourites_count": 3883,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4619,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252958306076786689/y4NmQHBV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252958306076786689/y4NmQHBV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168081522533888000/1571673046",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:21:17 +0000 2020",
+        "id": 1327496808411525120,
+        "id_str": "1327496808411525120",
+        "text": "@CECCgov China use DNA to Map faces and track people.\n#Xinjiang #Tibet #HongKong #ChiNazi https://t.co/9EGibouhEx",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Xinjiang",
+                    "indices": [
+                        54,
+                        63
+                    ]
+                },
+                {
+                    "text": "Tibet",
+                    "indices": [
+                        64,
+                        70
+                    ]
+                },
+                {
+                    "text": "HongKong",
+                    "indices": [
+                        71,
+                        80
+                    ]
+                },
+                {
+                    "text": "ChiNazi",
+                    "indices": [
+                        81,
+                        89
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CECCgov",
+                    "name": "China Commission",
+                    "id": 196324920,
+                    "id_str": "196324920",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/9EGibouhEx",
+                    "expanded_url": "https://twitter.com/suilee/status/1202372072795713536",
+                    "display_url": "twitter.com/suilee/status/\u2026",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1327294262866808834,
+        "in_reply_to_status_id_str": "1327294262866808834",
+        "in_reply_to_user_id": 196324920,
+        "in_reply_to_user_id_str": "196324920",
+        "in_reply_to_screen_name": "CECCgov",
+        "user": {
+            "id": 1165843165225484288,
+            "id_str": "1165843165225484288",
+            "name": "Lincoln \ud83d\ude37",
+            "screen_name": "HKer20682966",
+            "location": "Worldwide",
+            "description": "Love Hong Kong, this is our land, we need to protect our home, cats lover, sport\uff0c\u70ba\u81ea\u7531\u800c\u6230\ud83d\udea8",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1879,
+            "friends_count": 4856,
+            "listed_count": 3,
+            "created_at": "Mon Aug 26 04:28:39 +0000 2019",
+            "favourites_count": 70186,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 48943,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1289561208090234880/96tnLYAm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289561208090234880/96tnLYAm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165843165225484288/1581303026",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1202372072795713536,
+        "quoted_status_id_str": "1202372072795713536",
+        "quoted_status": {
+            "created_at": "Wed Dec 04 23:40:15 +0000 2019",
+            "id": 1202372072795713536,
+            "id_str": "1202372072795713536",
+            "text": "- China Uses DNA to Map Faces, With Help From the West https://t.co/U4wp9H9Ikg\n- China Uses DNA to Track Its People\u2026 https://t.co/nylyyu33rn",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/U4wp9H9Ikg",
+                        "expanded_url": "https://nyti.ms/34Ni9Hq",
+                        "display_url": "nyti.ms/34Ni9Hq",
+                        "indices": [
+                            55,
+                            78
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/nylyyu33rn",
+                        "expanded_url": "https://twitter.com/i/web/status/1202372072795713536",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1202367438437916672,
+            "in_reply_to_status_id_str": "1202367438437916672",
+            "in_reply_to_user_id": 97650875,
+            "in_reply_to_user_id_str": "97650875",
+            "in_reply_to_screen_name": "suilee",
+            "user": {
+                "id": 97650875,
+                "id_str": "97650875",
+                "name": "Sui-Lee Wee \u9ec4\u745e\u9ece",
+                "screen_name": "suilee",
+                "location": "Singapore",
+                "description": "@nytimes journalist covering China. \u7ebd\u7ea6\u65f6\u62a5\u8bb0\u8005\u3002Usually based in Beijing but now in Singapore. Pronounced Sweet, without the T. slwee@nytimes.com",
+                "url": "https://t.co/avvvuYntqR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/avvvuYntqR",
+                                "expanded_url": "https://www.nytimes.com/by/sui-lee-wee",
+                                "display_url": "nytimes.com/by/sui-lee-wee",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 88211,
+                "friends_count": 3769,
+                "listed_count": 1552,
+                "created_at": "Fri Dec 18 12:01:46 +0000 2009",
+                "favourites_count": 6240,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 18046,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1070141660955209728/v9TC6CQ__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070141660955209728/v9TC6CQ__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/97650875/1529581682",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 42,
+            "favorite_count": 62,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

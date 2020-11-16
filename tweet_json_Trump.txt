@@ -1,0 +1,2411 @@
+[
+    {
+        "created_at": "Sat Nov 14 06:46:42 +0000 2020",
+        "id": 1327503204964204544,
+        "id_str": "1327503204964204544",
+        "text": "Firefighters saved a kitten stuck between the walls of a Sydney home after using a thermal imaging camera to locate\u2026 https://t.co/ccf168sD6G",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ccf168sD6G",
+                    "expanded_url": "https://twitter.com/i/web/status/1327503204964204544",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 81,
+        "favorite_count": 410,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:30:06 +0000 2020",
+        "id": 1327499026959372288,
+        "id_str": "1327499026959372288",
+        "text": "The Indianapolis Zoo has welcomed this adorable baby giraffe to its herd.\n\nThe male calf was born to first-time mot\u2026 https://t.co/CXZEqalA8l",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CXZEqalA8l",
+                    "expanded_url": "https://twitter.com/i/web/status/1327499026959372288",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 65,
+        "favorite_count": 465,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 06:11:29 +0000 2020",
+        "id": 1327494340923559936,
+        "id_str": "1327494340923559936",
+        "text": "Marijuana legalization successes pave way for national conversation on drug laws: Experts. https://t.co/A0ndOv9KMU",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/A0ndOv9KMU",
+                    "expanded_url": "https://abcn.ws/2H3Bz4s",
+                    "display_url": "abcn.ws/2H3Bz4s",
+                    "indices": [
+                        91,
+                        114
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 214,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 05:54:34 +0000 2020",
+        "id": 1327490086431289344,
+        "id_str": "1327490086431289344",
+        "text": "DECK THE HALLS: This homeowner\u2019s viral holiday display has turned their house into Santa\u2019s Grotto, with people blow\u2026 https://t.co/yjL2HHlKET",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yjL2HHlKET",
+                    "expanded_url": "https://twitter.com/i/web/status/1327490086431289344",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 94,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 05:39:29 +0000 2020",
+        "id": 1327486287998312449,
+        "id_str": "1327486287998312449",
+        "text": "Trump and Pompeo's refusal to concede election could damage America's 'soft power' around the world. https://t.co/xozse0RCH9",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xozse0RCH9",
+                    "expanded_url": "https://abcn.ws/3lo9HXz",
+                    "display_url": "abcn.ws/3lo9HXz",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 73,
+        "favorite_count": 390,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 05:24:02 +0000 2020",
+        "id": 1327482402692804608,
+        "id_str": "1327482402692804608",
+        "text": "Halloween gatherings cited by authorities as leading to COVID-19 outbreaks. https://t.co/p8CQWZv5Eu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/p8CQWZv5Eu",
+                    "expanded_url": "https://abcn.ws/2Iyj4pd",
+                    "display_url": "abcn.ws/2Iyj4pd",
+                    "indices": [
+                        76,
+                        99
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 94,
+        "favorite_count": 270,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 05:17:42 +0000 2020",
+        "id": 1327480807775232000,
+        "id_str": "1327480807775232000",
+        "text": "Joint Chiefs Chairman Gen. Mark Milley's wife saved man's life at Arlington Cemetery Veterans Day event. https://t.co/xCNYnNnurL",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xCNYnNnurL",
+                    "expanded_url": "https://abcn.ws/2JZAfk0",
+                    "display_url": "abcn.ws/2JZAfk0",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 49,
+        "favorite_count": 291,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:59:09 +0000 2020",
+        "id": 1327476140261453830,
+        "id_str": "1327476140261453830",
+        "text": "Katy Perry, Pink, Michael Bubl\u00e9, Adam Lambert, opera legend Andrea Bocelli, Leslie Odom Jr. and K-Pop superstars BT\u2026 https://t.co/sb3Ag3mHZm",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sb3Ag3mHZm",
+                    "expanded_url": "https://twitter.com/i/web/status/1327476140261453830",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 149,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:59:07 +0000 2020",
+        "id": 1327476128899100678,
+        "id_str": "1327476128899100678",
+        "text": "President-elect Biden's goals, such as increasing testing locations, pushing the development of at-home test kits a\u2026 https://t.co/MY5ly7kBml",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MY5ly7kBml",
+                    "expanded_url": "https://twitter.com/i/web/status/1327476128899100678",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 320,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:58:06 +0000 2020",
+        "id": 1327475874434850816,
+        "id_str": "1327475874434850816",
+        "text": "With all that the COVID-19 pandemic has taken away from our children -- school, birthday parties, family gatherings\u2026 https://t.co/emPTYF7BL6",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/emPTYF7BL6",
+                    "expanded_url": "https://twitter.com/i/web/status/1327475874434850816",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 131,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:38:26 +0000 2020",
+        "id": 1327470927102218241,
+        "id_str": "1327470927102218241",
+        "text": "President Trump taps Rudy Giuliani to take over election legal fight: Sources https://t.co/O9XoIpyGAH",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/O9XoIpyGAH",
+                    "expanded_url": "https://abcn.ws/2H0Fhf7",
+                    "display_url": "abcn.ws/2H0Fhf7",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 68,
+        "favorite_count": 534,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:25:06 +0000 2020",
+        "id": 1327467570417557504,
+        "id_str": "1327467570417557504",
+        "text": "A Black former Amazon worker has filed a lawsuit against the e-commerce giant, alleging it racially discriminated a\u2026 https://t.co/IBNMknznll",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IBNMknznll",
+                    "expanded_url": "https://twitter.com/i/web/status/1327467570417557504",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 71,
+        "favorite_count": 278,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:22:04 +0000 2020",
+        "id": 1327466806068588546,
+        "id_str": "1327466806068588546",
+        "text": "Progressive groups provide 400-person directory of suggested hires to Biden campaign. https://t.co/wXHUYJ6cd7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wXHUYJ6cd7",
+                    "expanded_url": "https://abcn.ws/3kwSl9H",
+                    "display_url": "abcn.ws/3kwSl9H",
+                    "indices": [
+                        86,
+                        109
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 276,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 04:11:35 +0000 2020",
+        "id": 1327464168824459264,
+        "id_str": "1327464168824459264",
+        "text": "CORONAVIRUS LATEST: https://t.co/RE7tXnCpRC\n\n\u2014 New York state logs over 5,000 cases for first time since April\n\u2014 Ne\u2026 https://t.co/nXeqddpxUS",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RE7tXnCpRC",
+                    "expanded_url": "https://abcn.ws/3lx7SaG",
+                    "display_url": "abcn.ws/3lx7SaG",
+                    "indices": [
+                        20,
+                        43
+                    ]
+                },
+                {
+                    "url": "https://t.co/nXeqddpxUS",
+                    "expanded_url": "https://twitter.com/i/web/status/1327464168824459264",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 47,
+        "favorite_count": 141,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 02:20:01 +0000 2020",
+        "id": 1327436092195397632,
+        "id_str": "1327436092195397632",
+        "text": "A team of researchers have created a computer model that predicts how COVID-19 spreads in cities by studying anonym\u2026 https://t.co/LB2l0hNdf8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LB2l0hNdf8",
+                    "expanded_url": "https://twitter.com/i/web/status/1327436092195397632",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62,
+        "favorite_count": 190,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 02:00:17 +0000 2020",
+        "id": 1327431123794849792,
+        "id_str": "1327431123794849792",
+        "text": "Disinformation about the election, and in particular unfounded claims of election fraud, has flooded the internet o\u2026 https://t.co/tOfoQmR4gK",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tOfoQmR4gK",
+                    "expanded_url": "https://twitter.com/i/web/status/1327431123794849792",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 190,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 01:54:25 +0000 2020",
+        "id": 1327429651078189059,
+        "id_str": "1327429651078189059",
+        "text": "Federal prosecutors express concern over Attorney General William Barr's election fraud memo: Sources https://t.co/9xkkPsP6PD",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9xkkPsP6PD",
+                    "expanded_url": "https://abcn.ws/35reMZz",
+                    "display_url": "abcn.ws/35reMZz",
+                    "indices": [
+                        102,
+                        125
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 112,
+        "favorite_count": 543,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 01:41:32 +0000 2020",
+        "id": 1327426406398234624,
+        "id_str": "1327426406398234624",
+        "text": "Democrats face challenges ahead as they confront a splintered reality that reflects much of the country's deep divi\u2026 https://t.co/O1ynCnCemq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/O1ynCnCemq",
+                    "expanded_url": "https://twitter.com/i/web/status/1327426406398234624",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 95,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 01:26:01 +0000 2020",
+        "id": 1327422504261005317,
+        "id_str": "1327422504261005317",
+        "text": "FBI catches fugitive nearly 50 years after his escape from custody with new fingerprint technology. https://t.co/N13xbegMfm",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/N13xbegMfm",
+                    "expanded_url": "https://abcn.ws/35qDfye",
+                    "display_url": "abcn.ws/35qDfye",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 55,
+        "favorite_count": 256,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Nov 14 01:05:52 +0000 2020",
+        "id": 1327417430310793217,
+        "id_str": "1327417430310793217",
+        "text": "Dozens of Secret Service Uniformed Division officers are in isolation or quarantine due to testing positive for COV\u2026 https://t.co/5MfV8MyrMV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5MfV8MyrMV",
+                    "expanded_url": "https://twitter.com/i/web/status/1327417430310793217",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28785486,
+            "id_str": "28785486",
+            "name": "ABC News",
+            "screen_name": "ABC",
+            "location": "New York City / Worldwide",
+            "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+            "url": "https://t.co/B4vihbwCGa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B4vihbwCGa",
+                            "expanded_url": "https://abcnews.go.com/",
+                            "display_url": "abcnews.go.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PKeobr4xt0",
+                            "expanded_url": "http://instagram.com/abcnews",
+                            "display_url": "instagram.com/abcnews",
+                            "indices": [
+                                77,
+                                100
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/2ICEX6CuXd",
+                            "expanded_url": "https://abcn.ws/tips",
+                            "display_url": "abcn.ws/tips",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 16147937,
+            "friends_count": 516,
+            "listed_count": 59998,
+            "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 324928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "6E8EB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 66,
+        "favorite_count": 242,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
